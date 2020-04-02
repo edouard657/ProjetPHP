@@ -1,0 +1,10 @@
+1|Harnais
+2|Casques
+3|Assureurs et descendeurs
+4|Cordes
+5|Mousquetons et dégaines
+6|Longes
+7|Crashpad
+8|Sacs et accéssoires
+9|Lampes frontales
+10|Chaussons

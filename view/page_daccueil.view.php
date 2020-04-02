@@ -14,18 +14,18 @@
     <header>
       <nav>
           <ul>
-            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][0]->getID()?>">CAT1</li></a>
-            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][9]->getID()?>">CAT2</li></a>
-            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][3]->getID()?>">CAT3</li></a>
-            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][1]->getID()?>">CAT4</li></a>
+            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][0]->getID()?>">CAT 1</li></a>
+            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][9]->getID()?>">CAT 2</li></a>
+            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][3]->getID()?>">CAT 3</li></a>
+            <li><a href="../controler/produits.ctrl.php?category=<?= $this->param['categories'][1]->getID()?>">CAT 4</li></a>
           </ul>
       </nav>
       <div class="top">
         <div class="flex">
           <img src="<?= $config['image_path'].'logo.png' ?>" alt="logo_du_site">
           <div>
-            <h1>FootMania</h1>
-            <h2>Le meilleur du Foot</h2>
+            <h1>FootMania !</h1>
+            <h2>Pas de Foot sans FootMania.</h2>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@
     </article>
     <footer>
       <div class="copyright">
-        <p>Copyright© FootMania 2020</p>
+        <p>Copyright© FootMania 2019</p>
         <ul>
           <li> <a href=#>Legal Notice</a> </li>
           <li> <a href=#>Sitemap</a> </li>

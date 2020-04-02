@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Title";
+  src: url(../data/Ailerons-Regular.otf);
+}
+
+@font-face {
+  font-family: "Moderne";
+  src: url(../data/fibre-font.otf);
+}
+
+html{
+    font-family: Source Sans Pro, Verdana, Arial, Helvetica;
+}
+
+body{
+  margin : 0em;
+  color : black;
+}
+
+.top{
+  border-bottom: 0.2em solid #333333;
+}
+
+.flex{
+  display: flex;
+  margin-bottom: 90px;
+}
+
+.flex img{
+  width: 350px;
+  max-height: 100%;
+}
+
+h1{
+  font-family: Moderne;
+  font-size: 4.3em;
+  width: 12em;
+  margin-left: none;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+h2{
+  font-family: Title;
+  font-size: 2em;
+  margin-left: none;
+  margin-top: 0px;
+}
+
+article {
+  display: flex;
+  margin: 20px 10px;
+}
+
+article img {
+  height: 300px;
+  width: auto;
+  border: 2px solid #grey;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  background-color: #f2f2f2;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+footer ul{
+  display: flex;
+  padding: 0px;
+}
+
+footer ul li{
+  margin: 5px;
+  list-style: none;
+}
+
+footer ul li a  {
+  text-decoration: none;
+}
+
+footer a:link, footer a:visited{
+  color: grey;
+}
+
+.copyright{
+  text-align: center;
+}

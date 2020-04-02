@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Climbing";
+  src: url(../data/A_Bug_s_Life.ttf);
+}
+
+@font-face {
+  font-family: "Moderne";
+  src: url(../data/fibre-font.otf);
+}
+
+h2{
+  margin : 0px;
+  font-family: Title;
+  font-size: 1.8em;
+}
+
+.flex-item{
+  padding : 10px;
+  margin-top: 10px;
+  display: flex;
+  border-top: 2px solid grey;
+}
+
+div.imgArt img{
+  border: 2px solid grey;
+  margin: 0px 5px;
+  max-width: 300px;
+  height: auto;
+}
+
+.container{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.desc{
+  width : 600px;
+  font-family: Arial;
+  font-size: 1.5em;
+}
+
+.desc p{
+  margin: 2px;
+}

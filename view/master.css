@@ -1,0 +1,9 @@
+/*CSS pour le reste du site*/
+html{
+    font-family: Source Sans Pro, Verdana, Arial, Helvetica;
+}
+
+body{
+  margin : 0em;
+  background-color : white;
+}

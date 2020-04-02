@@ -1,0 +1,55 @@
+1|SITTA|79.00|1.jpg|1|Harnais d'escalade et d'alpinisme haut de gamme
+2|AQUILA|75.00|2.jpg|1|Harnais d'escalade et d'alpinisme très confortable pour la performance en salle, en falaise et en grande voie
+3|CORAX|59.00|3.jpg|1|Harnais réglable polyvalent
+4|LUNA|55.00|4.jpg|1|Harnais d'escalade et d'alpinisme femme avec tours de cuisse ajustables pour la pratique en falaise et en grande voie
+5|ADJAMA|65.00|5.jpg|1|Harnais d'escalade et d'alpinisme avec tours de cuisse ajustables pour la pratique en falaise et en grande voie
+6|SIROCCO|99.99|6.jpg|2|Casque ultra-léger à protection renforcée pour l'escalade, l'alpinisme et le ski de randonnée
+7|METEOR|89.00|7.jpg|2|Casque léger à protection renforcée pour l’escalade, l’alpinisme et le ski de randonnée
+8|BOREO|55.00|8.jpg|2|Casque robuste et polyvalent à protection renforcée pour l'escalade et l’alpinisme
+9|ELIA|65.00|9.jpg|2|Casque confortable, robuste et polyvalent pour femme
+10|BOREO-CAVING|70.00|10.jpg|2|Casque de spéléologie avec fixations pour lampe frontale DUO
+11|GRIRI+|120.00|11.jpg|3|Assureur avec freinage assisté et poignée anti-panique, pour tous les diamètres de corde à simple (de 8,5 à 11 mm)
+12|GRIGRI|99.99|12.jpg|3|Assureur avec freinage assisté pour tous les diamètres de corde à simple (de 8,5 à 11 mm)
+13|REVERSO|69.99|13.jpg|3|Assureur-descendeur polyvalent et léger, permettant l'assurage du second (mode Reverso)
+14|VERSO|49.99|14.jpg|3|Assureur-descendeur léger pour tous les diamètres de corde à simple, à double et jumelées
+15|HUIT|12.99|15.jpg|3|Descendeur en huit
+16|HUIT-ANTIBRULURE|24.99|16.jpg|3|Descendeur en huit avec doigt anti-brûlure
+17|VOLTA-GUIDE-9MM|210.00|17.jpg|4|Corde multitype ultra-légère et compacte de 9,0 mm de diamètre pour l’alpinisme, avec traitement Guide UIAA Dry
+18|VOLTA-9.2MM|215.00|18.jpg|4|Corde multitype ultra-légère de 9,2 mm de diamètre pour l’alpinisme classique et la recherche de performances ultimes en escalade
+19|ARIAL-9.5MM|220.00|19.jpg|4|Corde à simple légère de 9,5 mm de diamètre pour la recherche de performance en escalade
+20|CONTACT-9.8MM|199.00|20.jpg|4|Corde à simple de 9,8 mm de diamètre, polyvalente et évolutive pour l’escalade en falaise
+21|WILLIAM|13.50|21.jpg|5|Mousqueton à verrouillage de grande dimension, en forme de poire, pour le relais et l'assurage au demi-cabestan
+22|Am'D|21.99|22.jpg|5|Mousqueton à verrouillage en forme de D pour la connexion des appareils sur le harnais
+23|FREINO|37.99|23.jpg|5|Mousqueton avec ergot de freinage pour descendeur
+24|OK|9.99|24.jpg|5|Mousqueton ovale pour l'usage avec des poulies et bloqueurs
+25|ATTACHE|14.70|25.jpg|5|Mousqueton à verrouillage à vis, compact et léger en forme de poire
+26|ANGE_FINESSE|12.99|26.jpg|5|Dégaine ultra-légère pour l'alpinisme
+27|SPIRIT_EXPRESS|10.99|27.jpg|5|Dégaine légère et polyvalente pour l'escalade sportive
+28|DJINN_AXESS|15.99|28.jpg|5|Dégaine robuste pour l'escalade en falaise
+29|PACKx6_DJINN_AXESS|79.99|29.jpg|5|Dégaine robuste pour l'escalade en falaise
+30|SCORPIO_EASHOOK|123.00|30.jpg|6|Longe de via ferrata avec mousquetons EASHOOK et système anti-twist
+31|SCORPIO_VERTIGO|145.00|31.jpg|6|Longe de via ferrata avec mousquetons VERTIGO WIRE-LOCK
+32|CONNECT_ADJUST|10.00|32.jpg|6|Longe simple réglable pour l'escalade et l'alpinisme
+33|ALTO|270.00|33.jpg|7|Crashpad pour la pratique du bloc
+34|CIRRO|299.00|34.jpg|7|Maxi crashpad pour la pratique du bloc
+35|NIMBO|159.99|35.jpg|7|Pad d’appoint pour l’escalade de bloc
+36|BANDI|30.00|36.jpg|8|Sac à magnésie de forme ronde
+37|SAKA|32.99|37.jpg|8|Sac à magnésie de forme ergonomique
+38|SAKAPOCHE|39.99|38.jpg|8|Sac à magnésie ergonomique avec poche
+39|POWER_CRUNCH|9.99|39.jpg|8|Magnésie en grumeaux
+40|POWERBALL|9.99|40.jpg|8|Boule de magnésie
+41|POWER_LIQUID|12.99|41.jpg|8|Magnésie liquide en tube
+42|BUG|54.99|42.jpg|8|Sac à dos pour l’escalade en grande voie à la journée
+43|SPATHA|24.99|43.jpg|8|Couteau mousquetonnable
+44|ACTIK|44.99|44.jpg|9|Lampe frontale compacte multifaisceau avec éclairage rouge, destinée aux activités outdoor. 350 lumens
+45|ACTIK_CORE|60.00|45.jpg|9|Lampe frontale rechargeable, compacte et multifaisceau avec éclairage rouge, destinée aux activités outdoor. 450 lumens
+46|MYO|74.80|46.jpg|9|Lampe frontale multifaisceau et puissante, dédiée aux activités outdoor d'endurance. 370 lumens
+47|GENIUS|159.00|47.jpg|10|Chausson d'escalade fabriqué avec la technologie innovante La Sportiva No-Edge et équipé d'un système de lacets.
+48|FUTURA|155.00|48.jpg|10|Le modèle Futura appartient à la nouvelle génération No-Edge. Le concept No-Edge élimine les traditionnelles « arêtes » de la semelle.
+49|SPEEDSTER|119.00|49.jpg|10|Chausson révolutionnaire, spécialement conçu pour améliorer les sensations du mouvement.
+50|TESTAROSSA|149.00|50.jgp|10|Reboot esthétique du célèbre modèle Testarossa, le chausson d'escalade enveloppant et performant par excellence, dédié à ceux qui utilisent les pieds pour “sentir” la roche.
+51|SOLUTION|145.00|51.jpg|10|Chausson d’escalade révolutionnaire, développé pour le bloc.
+52|SKYWAMA|145.00|52.jpg|10|Chausson d'escalade sensible, enveloppante et flexible, idéal pour une utilisation performance sur roche ainsi qu'en salle, conçue pour utilisations sur parois abruptes et sur dalles.
+53|PYTHON|115.00|53.jpg|10|Nouveau design pour Python le chausson d'escalade sportive conçu pour l'univers des compétitions et pour les utilisations indoor sur les parois artificielles qui demandent un maximum de sensibilité.
+54|OTAKI|149.00|54.jpg|10|Chausson d'escalade performance, précis et structuré: adapté à l'escalade en falaise, voies et boulder.
+55|KATAKI|149.00|55.jpg|10|Chausson d'escalade versatile et performant, conçu pour utilisations outdoor en falaise, parois surplombantes, favorise les tallonages grâce au système de construction S-Heel™.

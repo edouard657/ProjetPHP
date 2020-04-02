@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Title";
+    src: url(../data/Ailerons-Regular.otf);
+  }
+
+  @font-face {
+    font-family: "Moderne";
+    src: url(../data/fibre-font.otf);
+  }
+
+  header{
+    background-color: white;
+  }
+
+  nav ul  {
+    margin : auto;
+    display: flex;
+    padding: 0px 0px;
+    justify-content: space-between;
+    font-family: Title;
+  }
+
+  nav ul li a{
+    font-size: 1.5em;
+    padding : 1.5em;
+    border: 1px solid white;
+    list-style : none;
+    border-radius : 30px;
+    display : flex;
+    list-style-type: none;
+    text-decoration : none;
+    color:inherit;
+  }
+
+  nav ul li a:hover{
+    font-size: 1.7em;
+    list-style : none;
+    display : flex;
+    list-style-type: none;
+    text-decoration : none;
+    color:inherit;
+    border-radius: 2em;
+    border: 1px solid #e0e0e0;
+    background-color: #e0e0e0;
+  }
+
+  nav ul li {
+  list-style-type: none;
+  }

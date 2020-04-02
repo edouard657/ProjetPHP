@@ -14,7 +14,7 @@
 
     // Looking URL parameters
     if (isset($_GET['firstIndex'])) {
-        $view->assign('category', 'Tous les produit');
+        $view->assign('category', 'Tous les produits');
         $view->assign('articles', $dao->getFirstN(12));
     } elseif (isset($_GET['category'])) {
         $view->assign('category', $dao->getCat($_GET['category'])->getTitle());
