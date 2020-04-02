@@ -43,7 +43,7 @@
     </article>
     <footer>
       <div class="copyright">
-        <p>Copyright© FootMania 2019</p>
+        <p>Copyright© FootMania 2020</p>
         <ul>
           <li> <a href=#>Legal Notice</a> </li>
           <li> <a href=#>Sitemap</a> </li>

@@ -36,6 +36,7 @@
                 <h2><?= $article->getTitle()?></h2>
                 <p> Ref : N00<?= $article->getID()?></p>
                 <p><?= $article->getDescription() ?></p>
+                <h3>€<?= $article->getPrice()?>.00 / Unite</h3>
               </div>
             </div>
           <?php

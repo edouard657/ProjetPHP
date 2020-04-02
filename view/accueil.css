@@ -19,11 +19,13 @@ body{
 
 .top{
   border-bottom: 0.2em solid #333333;
+  background-color: #E9E9E9;
 }
 
 .flex{
   display: flex;
-  margin-bottom: 90px;
+  margin-bottom: 40px;
+  padding-top: 50px;
 }
 
 .flex img{
@@ -62,8 +64,8 @@ footer{
   display: flex;
   justify-content: center;
   background-color: #f2f2f2;
-  font-weight: bold;
-  font-size: 0.8em;
+  font-size: 1em;
+  font-family: Title;
 }
 
 footer ul{
